@@ -1,0 +1,4 @@
+id,name,rtype,capacity
+R1,Worker A,ANY,1
+R2,Packing Machine,PACK,1
+R3,Shipping Desk,SHIP,1

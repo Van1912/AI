@@ -1,0 +1,16 @@
+﻿id,name,rtype,capacity
+R1,General Worker 1,ANY,1
+R2,General Worker 2,ANY,1
+R3,General Worker 3,ANY,1
+R4,General Worker 4,ANY,1
+R5,Assembly Line A,ASSEMBLY,1
+R6,Assembly Line B,ASSEMBLY,1
+R7,Assembly Line C,ASSEMBLY,1
+R8,Assembly Line D,ASSEMBLY,1
+R9,Assembly Line E,ASSEMBLY,1
+R10,QC Station X,QC,1
+R11,QC Station Y,QC,1
+R12,QC Station Z,QC,1
+R13,Packing Machine 1,PACKING,1
+R14,Packing Machine 2,PACKING,1
+R15,Packing Machine 3,PACKING,1

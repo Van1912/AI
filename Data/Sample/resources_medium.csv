@@ -1,0 +1,8 @@
+id,name,rtype,capacity
+R1,Worker A,ANY,1
+R2,Worker B,ANY,1
+R3,Assembly Line 1,ASSEMBLY,1
+R4,Assembly Line 2,ASSEMBLY,1
+R5,QC Station,QC,1
+R6,Packing Machine,PACK,1
+R7,Shipping Desk,SHIP,1
